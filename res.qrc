@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/images/down.png</file>
+        <file>resource/images/shapez_startpage.jpg</file>
+        <file>resource/images/center1.png</file>
+        <file>resource/images/center2.png</file>
+        <file>resource/images/cutter.png</file>
+        <file>resource/images/gold.png</file>
+        <file>resource/images/left.png</file>
+        <file>resource/images/logo.png</file>
+        <file>resource/images/right.png</file>
+        <file>resource/images/save.png</file>
+        <file>resource/images/shop.png</file>
+        <file>resource/images/starticon.jpg</file>
+        <file>resource/images/trash.png</file>
+        <file>resource/images/up.png</file>
+        <file>resource/images/block.png</file>
+        <file>resource/images/cut_east.png</file>
+        <file>resource/images/cut_north.png</file>
+        <file>resource/images/cut_south.png</file>
+        <file>resource/images/cut_west.png</file>
+        <file>resource/images/trash_bin.png</file>
+        <file>resource/images/miner_east.png</file>
+        <file>resource/images/miner_north.png</file>
+        <file>resource/images/miner_south.png</file>
+        <file>resource/images/miner_west.png</file>
+        <file>resource/images/ore_circle.png</file>
+        <file>resource/images/ore_square.png</file>
+        <file>resource/images/source_circle.png</file>
+        <file>resource/images/source_square.png</file>
+        <file>resource/images/conveyor_belt_east.png</file>
+        <file>resource/images/conveyor_belt_east_north.png</file>
+        <file>resource/images/conveyor_belt_east_south.png</file>
+        <file>resource/images/conveyor_belt_north.png</file>
+        <file>resource/images/conveyor_belt_north_east.png</file>
+        <file>resource/images/conveyor_belt_north_west.png</file>
+        <file>resource/images/conveyor_belt_south.png</file>
+        <file>resource/images/conveyor_belt_south_east.png</file>
+        <file>resource/images/conveyor_belt_south_west.png</file>
+        <file>resource/images/conveyor_belt_west.png</file>
+        <file>resource/images/conveyor_belt_west_north.png</file>
+        <file>resource/images/conveyor_belt_west_south.png</file>
+        <file>resource/images/shapez.jpg</file>
+        <file>resource/images/shapez2.jpg</file>
+        <file>resource/images/ore_circle_cut_horizontal.png</file>
+        <file>resource/images/ore_circle_cut_vertical.png</file>
+        <file>resource/images/ore_square_cut_horizontal.png</file>
+        <file>resource/images/ore_square_cut_vertical.png</file>
+        <file>resource/images/shop_scene.png</file>
+        <file>resource/images/mutiplier.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>resource/music/background_music_june.mp3</file>
+    </qresource>
+</RCC>

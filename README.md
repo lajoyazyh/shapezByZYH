@@ -1,2 +1,16 @@
-# shapezByZYH
-A final project for the course "CPP advanced programming"(tutored by ChenJiajun) which I attended in Fall, 2024
+# cppFinal2025 shapezByZYH
+## A final project for the course "CPP advanced programming"(tutored by ChenJiajun) which I attended in Fall, 2024
+
+
+## 如你所见，我终于写完了
+
+赶在最后一天终于实现了存档和读取功能，有点小极限
+
+## 游戏功能介绍
+
+1. 实现了shapez作业文档中的所有要求 （地图、开采器、传送带、切割机、垃圾桶、两种开采物以及对应的切割物、局部强化、全局强化、存档的导入和导出）
+2. **额外实现的功能：**添加了背景音乐、商店系统中支持自主用开采物兑换金币、商店中支持自主用金币购买增益与解锁新设备、新设备multiplier（种植在交付中心上，对应中心的成交额翻倍）、有时间限制的任务（可以自己点击按钮开始计时，如果没有完成有惩罚）
+3. **基本交互逻辑：**鼠标点击按钮选中设备，按s（前进）或w（倒退）来控制不同设备的方向
+
+## Project status
+可以说是写完了，后续有时间可能会在地图设计上再下点功夫（多画几张图），以及考虑实现更多新设备。
